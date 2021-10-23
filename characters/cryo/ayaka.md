@@ -107,6 +107,7 @@ Summons forth a snowstorm with flawless poise, unleashing a **Frostflake Seki no
 | Energy Cost | 80 | -- |
 * **Kamisato Art: Soumetsu** snapshots
 * The whirl generated will stay in place for large enemies and frozen enemies
+* **Frostflake Seki no To** pushes away all nearby enemies. The extent to which enemies are pushed away depends on their weights & size.
 * **Kamisato Art: Soumetsu** deals 20 ticks of damage
   * 19 ticks of **Cutting DMG** and 1 final tick of **Bloom DMG**
 
@@ -153,7 +154,7 @@ When Kamisato Ayaka's Normal or Charged Attacks deal Cryo DMG to opponents, it h
 When casting **Kamisato Art: Soumetsu**, unleashes 2 smaller additional **Frostflake Seki no To**, each dealing 20% of the original storm's DMG.
 
 * All three **Frostflake Seki no To** (one from burst and the two from C2) can hit the same target.
-* The additional **Frostflake Seki no To** have their own separate ICD that follows standard ICD rules.
+* The additional **Frostflake Seki no To** share ICD with the main storm.
 
 {% endtab %}
 
